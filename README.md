@@ -10,26 +10,26 @@ Lo slider crea l'illusione di una galleria fotografica tridimensionale in contin
 
 Tecnologie Utilizzate
 
-. HTML5: Struttura di base della galleria e contenitore delle immagini.
+- HTML5: Struttura di base della galleria e contenitore delle immagini.
 
-. CSS3: La tecnologia chiave per le animazioni. Utilizza:
+- CSS3: La tecnologia chiave per le animazioni. Utilizza:
 
- . Trasformazioni 3D (transform, perspective, rotateX, rotateY, translateZ) per posizionare le immagini nello spazio tridimensionale.
+   - Trasformazioni 3D (transform, perspective, rotateX, rotateY, translateZ) per posizionare le immagini nello spazio tridimensionale.
 
- . Animazioni (@keyframes) per controllare la sequenza di rotazione delle immagini e il cambiamento dei colori di sfondo.
+   - Animazioni (@keyframes) per controllare la sequenza di rotazione delle immagini e il cambiamento dei colori di sfondo.
 
- . Proprietà CSS Custom (--s, --_p, --_t) per rendere il codice più leggibile e modulare.
+   - Proprietà CSS Custom (--s, --_p, --_t) per rendere il codice più leggibile e modulare.
 
 
 Funzionalità Principali
 
-. Galleria Immagini 3D: Le immagini si dispongono e ruotano in uno spazio tridimensionale.
+- Galleria Immagini 3D: Le immagini si dispongono e ruotano in uno spazio tridimensionale.
 
-. Animazione Continua: Lo slider anima automaticamente e ininterrottamente.
+- Animazione Continua: Lo slider anima automaticamente e ininterrottamente.
 
-. Pure CSS: Tutta l'animazione e la logica 3D sono gestite esclusivamente tramite CSS, senza l'ausilio di JavaScript per il movimento.
+- Pure CSS: Tutta l'animazione e la logica 3D sono gestite esclusivamente tramite CSS, senza l'ausilio di JavaScript per il movimento.
 
-. Sfondo Dinamico: Il colore di sfondo della pagina cambia in modo sincronizzato con l'animazione delle immagini, creando un'esperienza visiva coerente.
+- Sfondo Dinamico: Il colore di sfondo della pagina cambia in modo sincronizzato con l'animazione delle immagini, creando un'esperienza visiva coerente.
 
 
 Come Avviare il Progetto
