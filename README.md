@@ -1,14 +1,14 @@
-Slider 3D
+# Slider 3D
 
 Questo progetto implementa uno slider di immagini 3D innovativo, realizzato interamente con HTML e CSS. Le immagini ruotano in uno spazio tridimensionale, accompagnate da un cambio di colore dello sfondo sincronizzato per un'esperienza visiva dinamica e coinvolgente.
 
 
-Descrizione Approfondita del Progetto
+## Descrizione Approfondita del Progetto
 
 Lo slider crea l'illusione di una galleria fotografica tridimensionale in continua rotazione. A differenza dei caroselli tradizionali, l'animazione e la trasformazione delle immagini sono gestite esclusivamente tramite le proprietà CSS transform-style: preserve-3d, transform, e le @keyframes, senza l'uso di JavaScript per il movimento principale. Il colore di sfondo del corpo della pagina cambia in perfetta armonia con la rotazione delle immagini, arricchendo l'esperienza visiva.
 
 
-Tecnologie Utilizzate
+## Tecnologie Utilizzate
 
 - HTML5: Struttura di base della galleria e contenitore delle immagini.
 
@@ -21,7 +21,7 @@ Tecnologie Utilizzate
    - Proprietà CSS Custom (--s, --_p, --_t) per rendere il codice più leggibile e modulare.
 
 
-Funzionalità Principali
+## Funzionalità Principali
 
 - Galleria Immagini 3D: Le immagini si dispongono e ruotano in uno spazio tridimensionale.
 
@@ -32,17 +32,17 @@ Funzionalità Principali
 - Sfondo Dinamico: Il colore di sfondo della pagina cambia in modo sincronizzato con l'animazione delle immagini, creando un'esperienza visiva coerente.
 
 
-Come Avviare il Progetto
+## Come Avviare il Progetto
 
 Segui questi semplici passaggi per visualizzare il progetto localmente:
 
 
-Prerequisiti
+### Prerequisiti
 
 Non sono richiesti particolari prerequisiti oltre a un browser web moderno che supporti le trasformazioni CSS3 (tutti i browser moderni lo fanno).
 
 
-Installazione
+### Installazione
 
 1. Clona il repository (o scarica la cartella del progetto):
 
@@ -55,7 +55,7 @@ Assicurati di sostituire 'slider-3d.git' con il nome esatto del tuo repository.
 cd slider-3d
 
 
-Avvio dell'Applicazione
+### Avvio dell'Applicazione
 
 - Assicurati che i file immagine (es. media/pexels-jamaal-hutchinson-675024091-18696933 1.png, ecc.) siano presenti nella cartella media all'interno della directory del progetto.
 
@@ -70,12 +70,12 @@ http-server .
 L'applicazione sarà accessibile all'indirizzo mostrato dal server (es. http://localhost:8080).
 
 
-Stato del Progetto
+## Stato del Progetto
 
 Questo progetto è un esempio funzionale di animazione 3D puramente CSS, che dimostra capacità avanzate di styling e trasformazioni web.
 
 
-Contatti
+## Contatti
 
 GitHub: https://github.com/ValeVent
 
